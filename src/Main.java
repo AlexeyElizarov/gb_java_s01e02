@@ -4,6 +4,8 @@ public class Main {
 
     public static void main(String[] args) {
 
+        boolean toCheck = false;
+        
         // Задание 1
         print("Задание 1");
         doTask1();
